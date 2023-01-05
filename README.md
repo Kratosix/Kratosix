@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bit
-- 🐍 I like python 
-- 🌱 I’m currently learning Python, HTML and CSS
-If any of y'all need me dm me on DISCORD I AM Bit#1956.
-
-<!---
-Kratosix/Kratosix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li> Hi there 👋, I am <i>Bit #1956</i></li>
+  <li> I am currently 16 years old</li>
+  <li> I love Python, Html and CSS </li>
+  <li> My birthdate is January 1st<li>
+  <li> I am straight</li>
+  <li> I am christian </li>
+  
+</ul>
