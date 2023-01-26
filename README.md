@@ -4,7 +4,7 @@
   <li> I love Python, Html and CSS  🖥️</li>
   <li> My birthdate is January 1st 😀</li>
   <li> I am straight </li>
-  <li> I am christian 🙌</li>
+  <li> I love life</li>
   
 </ul>
 
