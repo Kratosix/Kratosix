@@ -64,4 +64,4 @@ I also made a discord bot with discord.py and I am going to launch it on March 0
 
 AS ALWAYS THANKS FOR WATCHING :D
 
-![Great day](https://media.giphy.com/media/Y6n8BxWLTsMeRC4sZD/giphy.gif)
+![](https://media.giphy.com/media/KbBsgXdWFhr8nfz0ho/giphy.gif)
