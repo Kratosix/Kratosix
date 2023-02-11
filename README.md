@@ -60,7 +60,7 @@ THIS IS MY FIRST TIME WRITTING THIS MUCH. 💀
 I also made a discord bot with discord.py and I am going to launch it on March 09th 2023 same time as the website(final)</p>
 
 
-<img src="myimg.PNG"/>
+<img src="myimg.png"/>
 
 AS ALWAYS THANKS FOR WATCHING :D
 
