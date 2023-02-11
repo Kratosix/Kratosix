@@ -62,23 +62,6 @@ I also made a discord bot with discord.py and I am going to launch it on March 0
 
 <img src="img.JPG"/>
 
-<style>
-    h3{
-        transition: transform 300ms ease-out;
-    }
-
-    h3:hover{
-        transform: translateX(10px)
-    }
-</style>
-
 AS ALWAYS THANKS FOR WATCHING :D
-
-<style>
-    *{
-        font-family:Helvetica Neue;
-        font-size:bold;
-    }
-</style>
 
 ![Great day](https://media.giphy.com/media/Y6n8BxWLTsMeRC4sZD/giphy.gif)
