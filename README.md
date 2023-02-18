@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/openai-white?logo=openai&logoColor=black&style=for-the-badge)
 
 <hr>
-MY DISCORD IS Bit#1956
+MY DISCORD IS Bit#4572
 
 ![](https://media.wzzm13.com/assets/ETONLINE/images/d0be457c-fcae-46e9-a69a-12b16e38d9ea/d0be457c-fcae-46e9-a69a-12b16e38d9ea_1920x1080.jpg)
 MY REDDIT IS KRATOSIX(WITH 309 KARMA)
