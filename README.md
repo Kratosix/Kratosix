@@ -57,7 +57,7 @@ I haven't been coding for a long time but what I'd say is that its not that comp
 THIS IS MY FIRST TIME WRITTING THIS MUCH. 💀
 
 <p>Projects I did were my site which Is still in development but I launched the prototype.
-I also made a discord bot with discord.py and I am going to launch it on March 09th 2023 same time as the website(final)</p>
+I also made a discord bot with discord.py and I am going to launch it on May 09th 2023 same time as the website(final)</p>
 
 
 <img src="myimg.png"/>
