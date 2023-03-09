@@ -15,7 +15,7 @@
 <h3>Languages I am using and learning.</h3>
 
 ![](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge)
-![](https://img.shields.io/badge/javascript-yellow?logo=python&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/html-orange?logo=html&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/css-purple?logo=css&logoColor=grey&style=for-the-badge)
 ![](https://img.shields.io/badge/c++-black?logo=cpp&logoColor=white&style=for-the-badge)
