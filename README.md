@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/django-black?logo=django&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/openai-white?logo=openai&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/react-gray?logo=react&logoColor=blue&style=for-the-badge)
 
 <hr>
 MY DISCORD IS Bit#4572
