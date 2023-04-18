@@ -46,23 +46,3 @@
 
 <hr>
 MY DISCORD IS Bit#4572
-
-![](https://media.wzzm13.com/assets/ETONLINE/images/d0be457c-fcae-46e9-a69a-12b16e38d9ea/d0be457c-fcae-46e9-a69a-12b16e38d9ea_1920x1080.jpg)
-MY REDDIT IS KRATOSIX(WITH 309 KARMA)
-
-I haven't been coding for a long time but what I'd say is that its not that complicated as it looks and the more you learn it, the more you'll understand the concepts. I didn't understand how functions work when I was 13, but now I practiced and I am further from that.
-
-<p>In conclusion, programming is a skill just like any other. The more you practice the better you get.</p>
-
-
-THIS IS MY FIRST TIME WRITTING THIS MUCH. 💀
-
-<p>Projects I did were my site which Is still in development but I launched the prototype.
-I also made a discord bot with discord.py and I am going to launch it on May 09th 2023 same time as the website(final)</p>
-
-
-<img src="myimg.png"/>
-
-AS ALWAYS THANKS FOR WATCHING :D
-
-![](https://media.giphy.com/media/KbBsgXdWFhr8nfz0ho/giphy.gif)
