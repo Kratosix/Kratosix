@@ -14,6 +14,10 @@
 
 <pre>If you need me, contact me at <b>bit1@myself.com</b></pre>
 
+<b> Fun fact </b>
+<p> Some people haven't said "Goodmorning" in their whole life, That's because they don't speak English </P
+
+<hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kratosix&show_icons=true&theme=radical)
 
