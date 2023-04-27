@@ -21,4 +21,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kratosix&show_icons=true&theme=radical)
 
-![stats of best language](https://github-readme-stats.vercel.app/api/top-langs/?username=kratosix&layout=compact&theme=buefy&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratosix)](https://github.com/anuraghazra/github-readme-stats)
