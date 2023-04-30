@@ -12,7 +12,7 @@
 </ul>
 
 
-<pre>If you need me, contact me at <b>bit1@myself.com</b></pre>
+<pre>If you need me, contact me at <a href="mailto:bit1@myself.com"><b>bit1@myself.com</b></a></pre>
 
 <b> Fun fact </b>
 <p> Some people haven't said "Goodmorning" in their whole life, That's because they don't speak English </P
