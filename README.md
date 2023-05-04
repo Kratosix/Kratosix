@@ -1,6 +1,6 @@
 <code>Hi, 👋. Pleased to see you here, I write code, sometimes it works and sometimes it don't.</code>
 
-<b>I might enjoy code a little bit too much.</b>
+<b>16 yo who might enjoy code a little bit too much.</b>
 
 
 <ul>
