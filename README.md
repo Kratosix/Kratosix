@@ -5,7 +5,7 @@
 
 <ul>
   <li><code> I am learning Javascript, Typescript, and C++ currently. 📚</code> </li>
-  <li><code> I also like to help people with Python and html and css. 😊</code> </li>
+  <li><code> I also like to help people with Python, HTML, CSS, Javascript and sometimes Mojo. 😊</code> </li>
   <li><code> I like playing Games also (GOW mostly and Elden ring and CS:GO) 🎮</code></li>
   <li><code> I live in Kigali</code> </li>
   <hr/>
@@ -31,5 +31,6 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
