@@ -4,8 +4,8 @@
 
 
 <ul>
-  <li><code> I am learning Javascript, Typescript, and C++ currently. 📚</code> </li>
-  <li><code> I also like to help people with Python, HTML, CSS, Javascript and sometimes Mojo. 😊</code> </li>
+  <li><code> I am learning C++ currently, Calculus and AI/ML. 📚</code> </li>
+  <li><code> I also like to help people to code. 😊</code> </li>
   <hr/>
 </ul>
 
