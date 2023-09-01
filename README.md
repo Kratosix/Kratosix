@@ -3,6 +3,7 @@
 <ul>
   <li>📚 I am learning C++ currently, Calculus and AI/ML.</li>
   <li>🚀 Wanting to make my own OS one day </li>
+  <li>16 😲, 16 😦</li>
 </ul>
 
 
